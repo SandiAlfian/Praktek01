@@ -16,5 +16,7 @@ public class MahasiswaAksi {
         Sandi.Nama = "Sandi Alfian";
         Sandi.NPM = "2110010407";
         Sandi.IPK = 4.0;
+        
+        Sandi.CetakInfo();
     }
 }
