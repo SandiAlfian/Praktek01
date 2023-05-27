@@ -7,15 +7,8 @@ package praktek01;
 
 /**
  *
- * @author SANDI ALFIAN
+ * @author ACER PC
  */
-public class Praktek01 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
-    }
+public class MahasiswaAksi {
     
 }
